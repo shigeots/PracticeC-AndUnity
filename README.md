@@ -1,4 +1,4 @@
 # PracticeC-AndUnity
-Repositorio para practicar C# y Unity
+Repositorio para practicar CSharp y Unity
 
 Wiki: https://github.com/shigeots/PracticeC-AndUnity/wiki
